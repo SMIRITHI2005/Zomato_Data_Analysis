@@ -106,12 +106,19 @@ Business Problems This Dataset Can Solve
 Repository Structure
 
 zomato-restaurant-analysis/
+
 ├── data/
+
 │   └── zomato.csv
+
 ├── notebooks/
+
 │   └── zomato_eda.ipynb
+
 ├── images/
+
 │   └── visualizations.png
+
 ├── README.md
 
 Future Enhancements
